@@ -1,6 +1,6 @@
 ##[assignment-1](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_1.ipynb)
 ##[assignment-2](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_2.ipynb)
-##[assignment-3]()
-##[assignment-4]()
+##[assignment-3](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_3.ipynb)
+##[assignment-4](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_4.ipynb)
 ##[assignment-5]()
 ##[assignment-6]()
