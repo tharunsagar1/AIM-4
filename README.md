@@ -4,3 +4,6 @@
 ##[assignment-4](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_4.ipynb)
 ##[assignment-5](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_5.ipynb)
 ##[assignment-6](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_6.ipynb)
+##[assignment-7](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_7.ipynb)
+##[assignment-8](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_8.ipynb)
+##[assignment-9](https://github.com/tharunsagar1/AIML-B4/blob/main/Assignment_9.ipynb)
